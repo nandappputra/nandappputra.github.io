@@ -1,5 +1,5 @@
 :root{
-    --main-font:sans-serif;
+    --main-font: sans-serif;
 }
 
 body{
@@ -11,4 +11,12 @@ body{
 h1{
     font-size: 5em;
 }
-  
+
+#welcome-section{
+    background:linear-gradient(70deg, #5894f5,#54ffac);
+    width:100vw;
+    height:100vh;
+    text-align:center;
+    color:white;
+    margin:auto;
+}
