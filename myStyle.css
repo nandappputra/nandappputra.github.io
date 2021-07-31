@@ -4,4 +4,11 @@
 
 body{
     display:flex;
+    flex-direction:column;
+    font-family:var(--main-font);
 }
+
+h1{
+    font-size: 5em;
+}
+  
