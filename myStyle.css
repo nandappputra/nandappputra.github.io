@@ -6,14 +6,38 @@ body{
     display:flex;
     flex-direction:column;
     font-family:var(--main-font);
+    margin:0;
 }
 
 h1{
     font-size: 5em;
 }
 
-#welcome{
+.cont{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    height:50vh;
+}
+
+.card{
+    width:60vw;
+    color:white;
+    text-align:center;
+    vertical-align: middle;
+}
+
+
+#card1{
     background:linear-gradient(70deg, #5894f5,#54ffac);
+}
+
+#card2{
+    background:linear-gradient(70deg, #d6871f,#02c9e4);
+}
+
+.description{
+    
     width:100vw;
     height:100vh;
     text-align:center;
