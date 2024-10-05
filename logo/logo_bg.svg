@@ -1,0 +1,21 @@
+<svg width="126" height="126" viewBox="0 0 126 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="63" cy="63" r="63" fill="#1A1A1A"/>
+<path d="M63 3C29.8629 3 3 29.8629 3 63C3 96.1371 29.8629 123 63 123C96.1371 123 123 96.1371 123 63C123 29.8629 96.1371 3 63 3Z" stroke="white"/>
+<path d="M105.43 20.57L63 63" stroke="white" stroke-miterlimit="10"/>
+<path d="M20.57 20.57L63 63" stroke="white" stroke-miterlimit="10"/>
+<path d="M63 63V123" stroke="white" stroke-miterlimit="10"/>
+<path d="M63 123L20.57 20.57" stroke="white" stroke-miterlimit="10"/>
+<path d="M20.57 20.57L63 3" stroke="white" stroke-miterlimit="10"/>
+<path d="M105.43 20.57L63 3" stroke="white" stroke-miterlimit="10"/>
+<path d="M63 123L105.43 20.57" stroke="white" stroke-miterlimit="10"/>
+<path d="M42.5 73L63 43" stroke="white" stroke-miterlimit="10"/>
+<path d="M83.5 73L63 42.96" stroke="white" stroke-miterlimit="10"/>
+<path d="M3 63L20.57 20.57" stroke="white" stroke-miterlimit="10"/>
+<path d="M123 63L105.43 20.57" stroke="white" stroke-miterlimit="10"/>
+<path d="M123 63L63 123" stroke="white" stroke-miterlimit="10"/>
+<path d="M20.57 20.57H105.43" stroke="white" stroke-miterlimit="10"/>
+<path d="M63 123L3 63" stroke="white" stroke-miterlimit="10"/>
+<path d="M43 73L3 63" stroke="white" stroke-miterlimit="10"/>
+<path d="M83 73L123 63" stroke="white" stroke-miterlimit="10"/>
+<path d="M63 43V3" stroke="white" stroke-miterlimit="10"/>
+</svg>
